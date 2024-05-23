@@ -39,7 +39,7 @@
 
 .abot{
     margin: 50px;
-    transform: translateX(50%);
+    transform: translateX(30%);
 }
 .abot p{
     margin: 9px;
@@ -53,7 +53,7 @@
 }
 .work{
     margin: 50px;
-    transform: translateX(110%);
+    transform: translateX(120%);
 }
 .educat{
     margin: 30px;
@@ -75,7 +75,7 @@
 }
 .job{
     margin: 50px;
-    transform: translateX(70%);
+    transform: translateX(30%);
 }
 .job-cont p{
    margin: 7px;
